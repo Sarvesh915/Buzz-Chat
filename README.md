@@ -34,7 +34,7 @@ To get a local copy up and running, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-git clone 'https://github.com/sarvesh915/BuzzChat.git'
+git clone 'https://github.com/Sarvesh915/BuzzChat.git'
 cd BuzzChat
 ```
 
